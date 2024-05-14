@@ -1,1 +1,2 @@
 Hallo, ich bin David
+Notiz: Ich arbeite gerade an meine ersten Git-Aufgabe
